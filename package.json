@@ -1,0 +1,19 @@
+{
+  "name": "deilog",
+  "version": "1.0.0",
+  "description": "Deiak log-eatzeko mini app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deiak",
+    "pasaia"
+  ],
+  "author": "Iker Ibarguren",
+  "license": "MIT",
+  "dependencies": {
+    "asterisk-manager": "^0.1.16",
+    "open": "0.0.5"
+  }
+}

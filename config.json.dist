@@ -1,0 +1,7 @@
+{
+  "PORT": "5038",
+  "SERVER": "IP",
+  "USERNAME": "root",
+  "PASSWORD": "PASSWD",
+  "EXTENSION": "EXTNUMBER"
+}
